@@ -42,6 +42,12 @@ This project is built from scratch, entirely ad-free, and open to the public. If
 
 Every support you sponsor directly supports my open-source development sessions and helps fund my daughter's international higher education in engineering and architecture. Your support helps keep great code alive and accessible for everyone.
 
+<p align="left">
+  <a href="https://patreon.com/opensource2" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Become a Patron" />
+  </a>
+</p>
+
 *   🪙 **Bitcoin (BTC) Address (BlueWallet):** `bc1q7kpfdc9stpnexvwgpzxl8nzaua8wfyp2ht8xxa`
 
 ---
