@@ -7,18 +7,40 @@ Welcome to my profile! I am an independent open-source creator dedicated to buil
 
 ### 🌟 What I'm Building Right Now
 
-#### 📺 [TubeSeek](https://github.com/Aristotheles/TubeSeek) — YouTube SEO & Topic Discovery Tool
+#### 📺 [TubeSeek](https://github.com/Aristotheles/TubeSeek) — YouTube SEO & Topic Discovery Tool (Open Source)
 A completely free, open-source, and serverless Bring Your Own Key (BYOK) web application designed to bring professional channel optimization and high-CTR metadata research right into your browser.
-- **Privacy-First:** Bypasses heavy centralized API restrictions and data collection by utilizing your own secure, local API keys stored exclusively in your browser.
-- **Features:** Dynamic title CTR scoring with Turkish suffix matching (stemmer), natural competitor tag harvesting, Views-per-Day (VPD) competitor comparison, and auto-complete keyword discovery without API quota consumption.
-- **Status:** Active development / Fully deployed on GitHub Pages!
+- **Privacy-First:** Bypasses heavy centralized API restrictions by utilizing secure, local API keys stored in your browser.
+- **Features:** Dynamic title CTR scoring with Turkish suffix matching (stemmer), natural competitor tag harvesting, Views-per-Day (VPD) comparison, and auto-complete keyword discovery.
+- **Status:** Deployed and fully accessible on [GitHub Pages](https://aristotheles.github.io/TubeSeek/)!
+
+#### 🌉 [Caption Bridge](https://github.com/Aristotheles/CaptionBridge) — Video Subtitle & Translation Bridge (Open Source)
+An elegant, open-source tool designed to bridge, translate, and manage video captions and subtitles seamlessly, facilitating international reach for video creators.
+- **Features:** Structural subtitle format conversion, multi-language translation workflows, and sync-correcting visual alignment.
+- **Status:** Open-source & free to use!
+
+#### 📝 [PostIT Pro](https://github.com/Aristotheles/PostIT-Pro) — Content Scheduler & Creative Post Designer (Open Source)
+An open-source, privacy-focused workspace built for content creators to draft, design, structure, and organize cross-platform social media posts and ideas.
+- **Features:** Interactive markdown editors, instant character-limit audits, template asset managers, and visual structural calendars.
+- **Status:** Open-source & active!
+
+#### 🗣️ [YazılıOkuPro](https://yaziliokupro.com) — Advanced Turkish Text-to-Speech Platform (Commercial)
+A premium, commercial-grade speech synthesis platform specialized in delivering highly natural, lifelike Turkish voiceovers and transcription services.
+- **Access:** [Web Platform](https://yaziliokupro.com) | [Google Play Store](https://play.google.com/store/apps/details?id=com.yaziliokupro.app)
+- **Market Impact:** Empowering educators, commercial publishers, and media agencies with high-fidelity, industry-leading Turkish AI voices.
+- **Status:** Commercial production / Active support!
+
+#### 🇩🇪 [GermanChunks](https://germanchunks.com) — German Syntax Chunker & Language Learning Utility (Open Source)
+An open-source language learning tool designed to segment, analyze, and cluster German sentences into logical syntactic "chunks", speeding up vocabulary acquisition and grammar comprehension.
+- **Access:** [Web Platform](https://germanchunks.com) | [Google Play Store](https://play.google.com/store/apps/details?id=com.germanchunks.app) | [GitHub Repository](https://github.com/Aristotheles/GermanChunks)
+- **Features:** Automated part-of-speech chunking, interactive learning exercises, and structural syntax visualization.
+- **Status:** Open-source & active!
 
 ---
 
 ### 🎵 Beyond the Code: Digital Artistry & Fusion
 When I am not coding, I explore the intersections of traditional art, spirituality, and modern technology:
 - 🌌 **[Breath of Rumi](https://www.youtube.com/@BreathofRumi)** — Deep dives into Sufi wisdom, ney melodies, and spiritual tranquility.
-- 🎵 **[Kalpten Nağme](https://www.youtube.com/@KalptenNa%C4%9Fme)** — Classical Turkish Music makams, instrumental and heart-touching arrangements.
+- 🎵 **[Kalpten Nağme](https://kalptennagmeler.com)** — Classical Turkish Music makams, instrumental and heart-touching arrangements. Access our [Official Website](https://kalptennagmeler.com) or [YouTube Channel](https://www.youtube.com/@KalptenNa%C4%9Fme).
 *(Eski projemiz olan Ottoman Makam Beats'in fişini çektik; artık tüm gücümüzle bu iki harika kanalda yayındayız!)*
 
 ---
