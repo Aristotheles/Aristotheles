@@ -29,11 +29,11 @@ A premium, commercial-grade speech synthesis platform specialized in delivering 
 - **Market Impact:** Empowering educators, commercial publishers, and media agencies with high-fidelity, industry-leading Turkish AI voices.
 - **Status:** Commercial production / Active support!
 
-#### 🇩🇪 [GermanChunks](https://germanchunks.com) — German Syntax Chunker & Language Learning Utility (Open Source)
-An open-source language learning tool designed to segment, analyze, and cluster German sentences into logical syntactic "chunks", speeding up vocabulary acquisition and grammar comprehension.
-- **Access:** [Web Platform](https://germanchunks.com) | [Google Play Store](https://play.google.com/store/apps/details?id=com.germanchunks.app) | [GitHub Repository](https://github.com/Aristotheles/GermanChunks)
+#### 🇩🇪 [GermanChunks](https://germanchunks.com) — German Syntax Chunker & Language Learning Utility (Free Software)
+A free language learning tool designed to segment, analyze, and cluster German sentences into logical syntactic "chunks", speeding up vocabulary acquisition and grammar comprehension.
+- **Access:** [Web Platform](https://germanchunks.com) | [Google Play Store](https://play.google.com/store/apps/details?id=com.germanchunks.app)
 - **Features:** Automated part-of-speech chunking, interactive learning exercises, and structural syntax visualization.
-- **Status:** Open-source & active!
+- **Status:** Free & active!
 
 ---
 
